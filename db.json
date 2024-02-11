@@ -1,0 +1,32 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "firstName": "dana",
+      "secondName": "rami",
+      "lastName": "zaben",
+      "age": "19"
+    },
+    {
+      "id": "3",
+      "firstName": "amal",
+      "secondName": "walid",
+      "lastName": "musa",
+      "age": "30"
+    },
+    {
+      "id": "5",
+      "firstName": "ahmad",
+      "secondName": "rami",
+      "lastName": "zaben",
+      "age": "13"
+    },
+    {
+      "id": "5",
+      "firstName": "Zaina",
+      "secondName": "Rami",
+      "lastName": "Zaben",
+      "age": "21"
+    }
+  ]
+}
